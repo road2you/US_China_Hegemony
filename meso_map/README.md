@@ -6,4 +6,4 @@
            `weight`의 default 선택시 모든 노드가 동일 크기 적용
 
 VOSviewer 실행 :
-https://app.vosviewer.com/?map=https://github.com/road2you/US_China_Hegemony/blob/main/meso_map/meso_map_VOS_USA_ratio_map.txt?raw=true&network=?map=https://github.com/road2you/US_China_Hegemony/blob/main/meso_map/meso_map_VOS_USA_ratio_network.txt?raw=true
+https://app.vosviewer.com/?map=https://github.com/road2you/US_China_Hegemony/blob/main/meso_map/meso_map_VOS_USA_ratio_map.txt?raw=true&?network=https://github.com/road2you/US_China_Hegemony/blob/main/meso_map/meso_map_VOS_USA_ratio_network.txt?raw=true
